@@ -1,0 +1,35 @@
+body {
+  background-color: #e9e471;
+
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+  font-size: 60px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+  color: #2010ff;
+  font-size: 40px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: italic;
+}
+
+li {
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: italic, bold;
+}
+
+ol {
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: italic, bold
+}
