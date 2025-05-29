@@ -63,20 +63,21 @@ div {
 a {
   display: block;
   font-weight:bold;
-  background-color: lightblue;
-  color: #2010ff;
+  background-color: rgb(44, 174, 218);
+  color: #2009f1;
   font-size: 20px;
   font-family: 'Courier New', Courier, monospace;
   font-style: italic, bold ;
   padding: 10px;
   margin: 10px;
+  border-radius: 10px;
   text-align: center;
   text-decoration : none;
-  border : 1px solid #2010ff;
+  border : 1px solid #e7ff12;
 }
 a :hover{
   background-color: #ffffff;
-  color: #2010ff;
+  color: #d3ff10;
 }
 a:foucs{
   background-color: #fff700;
@@ -86,7 +87,7 @@ a:active{
   border: 10px solid #000000;
 }
 a:visited{
-  color: #8a0065;
+  color: #f00000;
 }
 
 nav a{
